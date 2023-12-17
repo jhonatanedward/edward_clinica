@@ -7,3 +7,5 @@ create table usuarios(
     primary key(id)
 
 );
+
+insert into usuarios(login, senha) values('edwardj', '$2a$12$MLBIrb1SNGliSY/l294qreIdF.t711irjItOtJ6Y4ZwvMTwrFcQoW');
